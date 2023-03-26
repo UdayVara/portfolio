@@ -11,7 +11,7 @@ import './index.css';
 function App() {
   return (
       <>
-          <Navbar name="Uday vara"/>
+          <Navbar name="Uday Vara"/>
           <Home />
           <About />
           <Skills />
