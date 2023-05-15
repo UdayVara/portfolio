@@ -31,9 +31,38 @@ export default function Porfolio() {
                                           Newsapp is live news web application.It is bulit using Bootstrap and react JS at frontend. And it is backed by NEWSAPI . I have used free plan as this is project is for my education purpose so , it allows 100 requests per day.<br /><br />
                                           Newsapp is completely responsive website as it is built using bootstrap.There are plenty of features in newsapp like dark mode, filtered news based on category of interest.
                                           <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a className=' mx-2 btn  rounded ' target="_blank" style={{ fontSize: '1.2rem', backgroundColor: '#26B69F' }}>Open Site  </a>
                                                 <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.2rem', backgroundColor: '#26B69F' }}>View Source Code</a>
                                           </div>
+                                    </div>
+                              </div>
+                              <div className="row mt-5">
+                                    <div className="col-md-5">
+                                          <div className="row mb-4">
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>MovieFinder</h2>
+                                          </div>
+                                          <div className="row">
+                                                <div className="col-md-9">
+                                                      <img src="moviefinder_1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                </div>
+                                          </div>
+                                          <br />
+                                          <div className="row">
+                                                <div className="offset-md-3 col-md-9">
+                                                      <img src="moviefinder_2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                </div>
+                                          </div>
+                                    </div>
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                          <br /><br />
+                                          Moviefinder is web site is created to get acess to any movies or web series wheather it is bollywood, hollywood or south indian film industry.It works as a serach engine where a user needs to write a name of movie or webseries that they are looking for.
+                                          <br /><br />
+                                          It has two different UI modes :- dark, light to view the site according to the requirement or comfort of the user.It shows various  information about the movies such as budget, cast, turnover , release date etc.
+                                          <br /><br />
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' href='https://github.com/UdayVara/MovieFinder' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://udayvara.github.io/MovieFinder/" className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                          </div>
+
                                     </div>
                               </div>
                               <div className="row mt-5">
@@ -121,6 +150,35 @@ export default function Porfolio() {
                                           <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
                                                 <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/Currency--Convertor/' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
                                                 <a href="https://github.com/UdayVara/Currency--Convertor"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                          </div>
+                                          {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
+                                    </div>
+                              </div>
+                              <div className="row mt-5">
+                                    <div className="col-md-5">
+                                          <div className="row mb-4">
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Cv maker</h2>
+                                          </div>
+                                          <div className="row">
+                                                <div className="col-md-9">
+                                                      <img src="cvmkr_1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                </div>
+                                          </div>
+                                          <br />
+                                          <div className="row">
+                                                <div className="offset-md-3 col-md-9">
+                                                      <img src="cvmkr_2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                </div>
+                                          </div>
+                                    </div>
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                          <br /><br />
+                                          cvmkr is very useful and interactive website which is specially made for students who do not have experience with making their resume and they don't know how to design, what fields to add in resume etc.
+                                          <br /><br />
+                                          Using this site a user can make cv within minutes without desinging it.A user just have to fill the fields which they want to add in their resume.User can even disable or remove some of the fields from the resume if they want.
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://github.com/UdayVara/cvmkr' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://udayvara.github.io/cvmkr/"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
                                           </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
