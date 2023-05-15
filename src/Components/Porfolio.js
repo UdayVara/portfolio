@@ -30,6 +30,10 @@ export default function Porfolio() {
                                           <br /><br />
                                           Newsapp is live news web application.It is bulit using Bootstrap and react JS at frontend. And it is backed by NEWSAPI . I have used free plan as this is project is for my education purpose so , it allows 100 requests per day.<br /><br />
                                           Newsapp is completely responsive website as it is built using bootstrap.There are plenty of features in newsapp like dark mode, filtered news based on category of interest.
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' target="_blank" style={{ fontSize: '1.2rem', backgroundColor: '#26B69F' }}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.2rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                          </div>
                                     </div>
                               </div>
                               <div className="row mt-5">
@@ -55,7 +59,11 @@ export default function Porfolio() {
                                           <br /><br />
                                           In this site i have used to modern authentication technology , JSON Web token to make this site secure.Password are also stored in hash format due to privacy concerns.
                                           <br /><br />
-                                          {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
+                                          {/* <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                          </div> */}
+
                                     </div>
                               </div>
                               <div className="row mt-5">
@@ -81,6 +89,10 @@ export default function Porfolio() {
                                           <br /><br />
                                           This site is built with so many modern features like cart which requires login , mulitple color and variants options of a same phone.Add to cart functionality.Filter for searching particular smartphone easily.
                                           <br /><br />
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                
+                                                <a href="https://github.com/UdayVara/Ecommerce-Site-Using-Django" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.2rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                          </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
                               </div>
@@ -106,6 +118,10 @@ export default function Porfolio() {
                                           This is very simple currency convertor that converts currency of one nation to the currency of another nation with just one click.This is built using free currency api.<br /><br />
                                           This app converts currency with latest currency rate and it is frequently updates the every currency according to the change.
                                           <br /><br />
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/Currency--Convertor/' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/Currency--Convertor"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                          </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
                               </div>
@@ -131,6 +147,10 @@ export default function Porfolio() {
                                           It is simple calculator which is made from pure javascript and it it used to perform the calculation like arithmetic operations like addition , subtraction and multiplication.
                                           <br /><br />
                                           It can work on any devices ranging from smartphones to tablets to pc.It is made without any backend support and it uses eval function available in javascript.
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/calculator/' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/calculator"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                          </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
                               </div>
@@ -156,6 +176,10 @@ export default function Porfolio() {
                                           This is beautifully designed site that gives new and amazing quotes everytime.This site is backed by an randomquotes API which provides about 10000 quotes.
                                           <br /><br />
                                           This quote generator has a button 'new quotes' that generates a new quote for the user.It also has the copy button which is used to copy quote directly to the clipboard.
+                                          <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/QuoteGenerator/' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/QuoteGenerator"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                          </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
                               </div>
