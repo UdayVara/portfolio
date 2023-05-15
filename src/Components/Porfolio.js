@@ -59,8 +59,8 @@ export default function Porfolio() {
                                           It has two different UI modes :- dark, light to view the site according to the requirement or comfort of the user.It shows various  information about the movies such as budget, cast, turnover , release date etc.
                                           <br /><br />
                                           <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a className=' mx-2 btn  rounded ' href='https://github.com/UdayVara/MovieFinder' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
-                                                <a href="https://udayvara.github.io/MovieFinder/" className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                                <a className=' mx-2 btn  rounded ' href='https://udayvara.github.io/MovieFinder/' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/MovieFinder" className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
                                           </div>
 
                                     </div>
@@ -177,8 +177,8 @@ export default function Porfolio() {
                                           <br /><br />
                                           Using this site a user can make cv within minutes without desinging it.A user just have to fill the fields which they want to add in their resume.User can even disable or remove some of the fields from the resume if they want.
                                           <div class="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://github.com/UdayVara/cvmkr' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
-                                                <a href="https://udayvara.github.io/cvmkr/"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/cvmkr/' style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/cvmkr"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.2rem',backgroundColor:'#26B69F'}}>View Source Code</a>
                                           </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
