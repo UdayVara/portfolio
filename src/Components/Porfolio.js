@@ -3,7 +3,7 @@ import React from 'react'
 export default function Porfolio() {
       return (
             <>
-                  <div className="container-fluid mt-0 pb-5" id="portfolio" style={{ minHeight: "100vh", backgroundColor: "#083749" }}>
+                  <div className="container-fluid mt-0 pt-3 pb-5" id="portfolio" style={{ minHeight: "100vh", backgroundColor: "#083749" }}>
                         <br /><br />
                         <div className="container-md">
 
