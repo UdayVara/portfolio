@@ -1,3 +1,29 @@
 *{
   scroll-behavior: smooth;
 }
+progress::-webkit-progress-value {
+  background: #083749;
+}
+
+progress::-moz-progress-bar {
+  background: #083749;
+}
+
+#name{
+  
+  overflow: hidden;
+  white-space: nowrap;
+  animation: text-animate 1.4s steps(11) 1;
+  border-right:5px solid #083749;
+  width: 10ch;
+}
+
+@keyframes text-animate {
+  0%{
+    width: 0ch;
+  }
+  100%{
+    width: 10ch;
+    
+  }
+}
