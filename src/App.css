@@ -15,7 +15,7 @@ progress::-moz-progress-bar {
   white-space: nowrap;
   animation: text-animate 1.4s steps(11) 1;
   border-right:5px solid #083749;
-  width: 10ch;
+  width: 9.8ch;
 }
 
 @keyframes text-animate {
