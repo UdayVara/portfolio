@@ -4,7 +4,9 @@ import React from 'react';
 
 export default function Navbar(props) {
   const closeNavbar = () => {
-    document.getElementById("navCloseBtn").click()
+    if (window.innerWidth <= 992) {
+      document.getElementById("navCloseBtn").click()
+    }
   }
   return (
     <nav className="navbar navbar-expand-lg fixed-top" style={{backgroundColor:"#083749"}}>
