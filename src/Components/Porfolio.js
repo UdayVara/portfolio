@@ -71,13 +71,13 @@ export default function Porfolio() {
                                           </div>
                                           <div className="row">
                                                 <div className="col-md-9">
-                                                      <img src="ss1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                      <img src="airbnb1.png" alt="" className="img-fluid" data-aos="fade-down" />
                                                 </div>
                                           </div>
                                           <br />
                                           <div className="row">
                                                 <div className="offset-md-3 col-md-9">
-                                                      <img src="ss2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                      <img src="airbnb2.png" alt="" className="img-fluid" data-aos="fade-up" />
                                                 </div>
                                           </div>
                                     </div>
