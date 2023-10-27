@@ -40,6 +40,33 @@ export default function Porfolio() {
                               <div className="row">
                                     <div className="col-md-5">
                                           <div className="row mb-4">
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Signature Stiches</h2>
+                                          </div>
+                                          <div className="row">
+                                                <div className="col-md-9">
+                                                      <img src="ss1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                </div>
+                                          </div>
+                                          <br />
+                                          <div className="row">
+                                                <div className="offset-md-3 col-md-9">
+                                                      <img src="ss2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                </div>
+                                          </div>
+                                    </div>
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                          <br /><br />
+                                          Signature Stiches is Ecommerce site with modern features like pincode availability check, Payment Integration, Cart functionality and much more.
+                                          <br /><br />
+                                          This site is built with Next JS and backend is on NODE + Express JS, for state management I have used Redux Toolkit. This site also has payment intgration using Razorpay.
+                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                          </div>
+                                    </div>
+                              </div>
+                              <div className="row">
+                                    <div className="col-md-5">
+                                          <div className="row mb-4">
                                                 <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>NewsApp</h2>
                                           </div>
                                           <div className="row">
