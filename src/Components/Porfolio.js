@@ -83,7 +83,7 @@ export default function Porfolio() {
                                     </div>
                                     <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
                                           <br /><br />
-                                          This site is replica of Airbnb. I have created this using Next js and Node + Express in the backend. For ORM(Object Relaional Mapping) i have used prisma which maps my database with objects and it is using Mongodb Atlas to store data in the Database
+                                          This site is replica of Airbnb. I have created this using Next js and Node + Express in the backend with Typescript. For ORM(Object Relaional Mapping) i have used prisma which maps my database with objects and it is using Mongodb Atlas to store data in the Database
                                           <br /><br />
                                           This site works exactly as original Airbnb and this site uses Next JS's latest app router for routing and server components for server side Rendring.
                                           <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
