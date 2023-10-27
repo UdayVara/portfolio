@@ -67,6 +67,33 @@ export default function Porfolio() {
                               <div className="row">
                                     <div className="col-md-5">
                                           <div className="row mb-4">
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Airbnb - Clone</h2>
+                                          </div>
+                                          <div className="row">
+                                                <div className="col-md-9">
+                                                      <img src="ss1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                </div>
+                                          </div>
+                                          <br />
+                                          <div className="row">
+                                                <div className="offset-md-3 col-md-9">
+                                                      <img src="ss2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                </div>
+                                          </div>
+                                    </div>
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                          <br /><br />
+                                          This site is replica of Airbnb. I have created this using Next js and Node + Express in the backend. For ORM(Object Relaional Mapping) i have used prisma which maps my database with objects and it is using Mongodb Atlas to store data in the Database
+                                          <br /><br />
+                                          This site works exactly as original Airbnb and this site uses Next JS's latest app router for routing and server components for server side Rendring.
+                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                          </div>
+                                    </div>
+                              </div>
+                              <div className="row">
+                                    <div className="col-md-5">
+                                          <div className="row mb-4">
                                                 <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>NewsApp</h2>
                                           </div>
                                           <div className="row">
