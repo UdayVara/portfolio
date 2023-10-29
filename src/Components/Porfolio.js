@@ -294,35 +294,7 @@ export default function Porfolio() {
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
                               </div>
-                              <div className="row mt-5">
-                                    <div className="col-md-5">
-                                          <div className="row mb-4">
-                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Quote Generator</h2>
-                                          </div>
-                                          <div className="row">
-                                                <div className="col-md-9">
-                                                      <img src="quote1.png" alt="" className="img-fluid" data-aos="fade-down" />
-                                                </div>
-                                          </div>
-                                          <br />
-                                          <div className="row">
-                                                <div className="offset-md-3 col-md-9">
-                                                      <img src="quote2.png" alt="" className="img-fluid" data-aos="fade-up" />
-                                                </div>
-                                          </div>
-                                    </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
-                                          <br /><br />
-                                          This is beautifully designed site that gives new and amazing quotes everytime.This site is backed by an randomquotes API which provides about 10000 quotes.
-                                          <br /><br />
-                                          This quote generator has a button 'new quotes' that generates a new quote for the user.It also has the copy button which is used to copy quote directly to the clipboard.
-                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/QuoteGenerator/' style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>Open Site  </a>
-                                                <a href="https://github.com/UdayVara/QuoteGenerator"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>View Source Code</a>
-                                          </div>
-                                          {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
-                                    </div>
-                              </div>
+                              
                         </div>
                   </div>
             </>
