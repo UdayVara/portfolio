@@ -4,8 +4,8 @@ import { Tilt } from 'react-tilt'
 export default function About() {
         const defaultOptions = {
                 reverse: false,  // reverse the tilt direction
-                max: 55,     // max tilt rotation (degrees)
-                perspective: 1000,   // Transform perspective, the lower the more extreme the tilt gets.
+                max: 65,     // max tilt rotation (degrees)
+                perspective: 900,   // Transform perspective, the lower the more extreme the tilt gets.
                 scale: 1.1,    // 2 = 200%, 1.5 = 150%, etc..
                 speed: 900,   // Speed of the enter/exit transition
                 transition: true,   // Set a transition on enter/exit.
