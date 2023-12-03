@@ -26,7 +26,7 @@ export default function About() {
                                                         <img src="me.png" alt="" className='img-fluid' />
                                                 </Tilt>
                                         </div>
-                                        <div className="col-md-7 mt-4 mt-md-5 pt-md-3 text-align-justify" style={{ color: "#26B69F", marginTop: "5rem", fontSize: "1.4rem",textAlign:"justify" }} data-aos="fade-down">
+                                        <div className="col-md-7 mt-4 mt-md-5 px-md-0 px-3 pt-md-3 text-align-justify" style={{ color: "#26B69F", marginTop: "5rem", fontSize: "1.4rem",textAlign:"justify" }} data-aos="fade-down">
                                                 <span>
                                                 Welcome to my corner of the digital universe! I'm a fervent full-stack web developer driven by an insatiable passion for coding.React, with its component-based architecture, seamlessly integrates with Tailwind CSS, providing a perfect blend of functionality and style. Meanwhile, the backend technologies, from Node.js and Express.js to databases like MongoDB and Supabase, form a robust foundation for scalable solutions.<br /><br />The dynamic nature of web development fuels my curiosity, and I am always eager to embrace new technologies, ensuring that I stay at the forefront of industry trends.  This journey is not just about code; it's about creating immersive and impactful web solutions that resonate with users. Join me and  Let's build the future of the web together!      
                                                 </span>
