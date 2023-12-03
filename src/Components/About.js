@@ -26,9 +26,9 @@ export default function About() {
                                                         <img src="me.png" alt="" className='img-fluid' />
                                                 </Tilt>
                                         </div>
-                                        <div className="col-md-7 mt-4 mt-md-5 pt-md-3 " style={{ color: "#26B69F", marginTop: "5rem", fontSize: "1.4rem" }} data-aos="fade-down">
+                                        <div className="col-md-7 mt-4 mt-md-5 pt-md-3 text-align-justify" style={{ color: "#26B69F", marginTop: "5rem", fontSize: "1.4rem",textAlign:"justify" }} data-aos="fade-down">
                                                 <span>
-                                                        My name is Uday Vara . I am from Porbandar , Gujarat .This is my portfolio site which i have created Using Bootstrap and React. I am passionate full stack web devloper who enjoys coding.<br /><br />I am always ready and excited to learn new technologies.I have learned Django for creating Dynamic web applications.I also have Knowldege and work experience of MERN stack ( MongoDb,Express JS,React JS,Node JS ).Using MERN stack I have built so many different dynamic web applications.I have very good experience of React and bootstrap which helps in creating fast and responsive web applications.
+                                                Welcome to my corner of the digital universe! I'm a fervent full-stack web developer driven by an insatiable passion for coding.React, with its component-based architecture, seamlessly integrates with Tailwind CSS, providing a perfect blend of functionality and style. Meanwhile, the backend technologies, from Node.js and Express.js to databases like MongoDB and Supabase, form a robust foundation for scalable solutions.<br /><br />The dynamic nature of web development fuels my curiosity, and I am always eager to embrace new technologies, ensuring that I stay at the forefront of industry trends.  This journey is not just about code; it's about creating immersive and impactful web solutions that resonate with users. Join me and  Let's build the future of the web together!      
                                                 </span>
                                         </div>
                                 </div>
