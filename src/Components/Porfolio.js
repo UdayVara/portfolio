@@ -27,7 +27,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           Signature Stiches is Ecommerce site with modern features like pincode availability check, Payment Integration, Cart functionality and much more.
                                           <br /><br />
@@ -54,7 +54,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           This is Lite Version of Spotify. I have created this using Next js and Node + Express in the backend with Typescript. For ORM(Object Relaional Mapping) i have used Mongoose which maps my database with objects and it is using Mongodb Atlas to store data in the Database
                                           <br /><br />
@@ -81,7 +81,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           Welcome to our Messenger  a dynamic, real-time chat application seamlessly blending Next.js, Supabase, Tailwind CSS, and the organizational prowess of Redux Toolkit. With this amalgamation of cutting-edge technologies, I've curated a chat experience that not only boasts lightning-fast messaging through Next.js but also maintains robust state management and effortless data flow with Redux Toolkit.
                                           <br /><br />
@@ -108,7 +108,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           This site is replica of Airbnb. I have created this using Next js and Node + Express in the backend with Typescript. For ORM(Object Relaional Mapping) i have used prisma which maps my database with objects and it is using Mongodb Atlas to store data in the Database
                                           <br /><br />
@@ -135,7 +135,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           I-code is web based text editor where any user can just write and execute their code without setting up any runtime envirmoments. It has support for 7 languages namely C, C++, Java, Python, C#, GO and Javascript.
                                           <br /><br />
@@ -163,7 +163,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           Newsapp is live news web application.It is bulit using Bootstrap and react JS at frontend. And it is backed by NEWSAPI . I have used free plan as this is project is for my education purpose so , it allows 100 requests per day.<br /><br />
                                           Newsapp is completely responsive website as it is built using bootstrap.There are plenty of features in newsapp like dark mode, filtered news based on category of interest.
@@ -189,7 +189,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           Moviefinder is web site is created to get acess to any movies or web series wheather it is bollywood, hollywood or south indian film industry.It works as a serach engine where a user needs to write a name of movie or webseries that they are looking for.
                                           <br /><br />
@@ -219,7 +219,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           iNotebook is internet notebook site which is Built on MERN Stack.This site is built with purpose of storing note for exams or anything on internet under particular users acccount.This site is completely reload free that means you click on anything site will not be reloaded due to async nature.
                                           <br /><br />
@@ -249,7 +249,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           MobShop is Ecommerce site which is built on Django , Python Framework.This site sells smartphone of various brands.In the frontend I have used Bootstrap with javascript.In backend I have used MYSQL database.
                                           <br /><br />
@@ -279,7 +279,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           cvmkr is very useful and interactive website which is specially made for students who do not have experience with making their resume and they don't know how to design, what fields to add in resume etc.
                                           <br /><br />
@@ -308,7 +308,7 @@ export default function Porfolio() {
                                                 </div>
                                           </div>
                                     </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F",textAlign:"justify" }} data-aos="fade-down">
                                           <br /><br />
                                           This is very simple currency convertor that converts currency of one nation to the currency of another nation with just one click.This is built using free currency api.<br /><br />
                                           This app converts currency with latest currency rate and it is frequently updates the every currency according to the change.
