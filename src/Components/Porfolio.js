@@ -9,34 +9,7 @@ export default function Porfolio() {
 
 
                               <h1 className="h1 text-center mt-md-3" style={{ color: "#26B69F", fontSize: "2.4rem" }}>Portfolio</h1><br />
-                              <div className="row">
-                                    <div className="col-md-5">
-                                          <div className="row mb-4">
-                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>I-code</h2>
-                                          </div>
-                                          <div className="row">
-                                                <div className="col-md-9">
-                                                      <img src="icode1.png" alt="" className="img-fluid" data-aos="fade-down" />
-                                                </div>
-                                          </div>
-                                          <br />
-                                          <div className="row">
-                                                <div className="offset-md-3 col-md-9">
-                                                      <img src="icode2.png" alt="" className="img-fluid" data-aos="fade-up" />
-                                                </div>
-                                          </div>
-                                    </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
-                                          <br /><br />
-                                          I-code is web based text editor where any user can just write and execute their code without setting up any runtime envirmoments. It has support for 7 languages namely C, C++, Java, Python, C#, GO and Javascript.
-                                          <br /><br />
-                                          It is just like vscode. It also has Command Palette which eases programming.There is one output terminal which shows the output of code or errors to debug the code.
-                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a href="https://udayvara.github.io/I-Code/" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>Open Site</a>
-                                                <a href="https://github.com/UdayVara/I-Code" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
-                                          </div>
-                                    </div>
-                              </div>
+                              
                               <div className="row">
                                     <div className="col-md-5">
                                           <div className="row mb-4">
@@ -61,6 +34,60 @@ export default function Porfolio() {
                                           This site is built with Next JS and backend is on NODE + Express JS, for state management I have used Redux Toolkit. This site also has payment intgration using Razorpay.
                                           <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
                                                 <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                          </div>
+                                    </div>
+                              </div>
+                              <div className="row">
+                                    <div className="col-md-5">
+                                          <div className="row mb-4">
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Spotify - Clone</h2>
+                                          </div>
+                                          <div className="row">
+                                                <div className="col-md-9">
+                                                      <img src="spotify1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                </div>
+                                          </div>
+                                          <br />
+                                          <div className="row">
+                                                <div className="offset-md-3 col-md-9">
+                                                      <img src="spotify2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                </div>
+                                          </div>
+                                    </div>
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                          <br /><br />
+                                          This is Lite Version of Spotify. I have created this using Next js and Node + Express in the backend with Typescript. For ORM(Object Relaional Mapping) i have used Mongoose which maps my database with objects and it is using Mongodb Atlas to store data in the Database
+                                          <br /><br />
+                                          In this site authenticated Users can upload the new song and unauthenticated users can play the song.It also has functionality to control volume, mute and unmute the music whenever required.
+                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a href="https://github.com/UdayVara/spotify-clone" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                          </div>
+                                    </div>
+                              </div>
+                              <div className="row">
+                                    <div className="col-md-5">
+                                          <div className="row mb-4">
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Messanger - Clone</h2>
+                                          </div>
+                                          <div className="row">
+                                                <div className="col-md-9">
+                                                      <img src="messanger-1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                </div>
+                                          </div>
+                                          <br />
+                                          <div className="row">
+                                                <div className="offset-md-3 col-md-9">
+                                                      <img src="messanger-2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                </div>
+                                          </div>
+                                    </div>
+                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
+                                          <br /><br />
+                                          Welcome to our Messenger  a dynamic, real-time chat application seamlessly blending Next.js, Supabase, Tailwind CSS, and the organizational prowess of Redux Toolkit. With this amalgamation of cutting-edge technologies, I've curated a chat experience that not only boasts lightning-fast messaging through Next.js but also maintains robust state management and effortless data flow with Redux Toolkit.
+                                          <br /><br />
+                                          Supabase takes the reins as my backend, ensuring a secure and frictionless data management experience. Tailwind CSS brings a touch of modernity and visual appeal to interface, making your communication not just efficient but also visually captivating.
+                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
+                                                <a href="https://github.com/UdayVara/airbnb-clone" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
                                           </div>
                                     </div>
                               </div>
@@ -94,27 +121,28 @@ export default function Porfolio() {
                               <div className="row">
                                     <div className="col-md-5">
                                           <div className="row mb-4">
-                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Spotify - Clone</h2>
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>I-code</h2>
                                           </div>
                                           <div className="row">
                                                 <div className="col-md-9">
-                                                      <img src="spotify1.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                      <img src="icode1.png" alt="" className="img-fluid" data-aos="fade-down" />
                                                 </div>
                                           </div>
                                           <br />
                                           <div className="row">
                                                 <div className="offset-md-3 col-md-9">
-                                                      <img src="spotify2.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                      <img src="icode2.png" alt="" className="img-fluid" data-aos="fade-up" />
                                                 </div>
                                           </div>
                                     </div>
                                     <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
                                           <br /><br />
-                                          This is Lite Version of Spotify. I have created this using Next js and Node + Express in the backend with Typescript. For ORM(Object Relaional Mapping) i have used Mongoose which maps my database with objects and it is using Mongodb Atlas to store data in the Database
+                                          I-code is web based text editor where any user can just write and execute their code without setting up any runtime envirmoments. It has support for 7 languages namely C, C++, Java, Python, C#, GO and Javascript.
                                           <br /><br />
-                                          In this site authenticated Users can upload the new song and unauthenticated users can play the song.It also has functionality to control volume, mute and unmute the music whenever required.
+                                          It is just like vscode. It also has Command Palette which eases programming.There is one output terminal which shows the output of code or errors to debug the code.
                                           <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a href="https://github.com/UdayVara/spotify-clone" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                                <a href="https://udayvara.github.io/I-Code/" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>Open Site</a>
+                                                <a href="https://github.com/UdayVara/I-Code" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
                                           </div>
                                     </div>
                               </div>
@@ -237,35 +265,6 @@ export default function Porfolio() {
                               <div className="row mt-5">
                                     <div className="col-md-5">
                                           <div className="row mb-4">
-                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Currency Convertor</h2>
-                                          </div>
-                                          <div className="row">
-                                                <div className="col-md-9">
-                                                      <img src="currency_convertor_1.png" alt="" className="img-fluid" data-aos="fade-down" />
-                                                </div>
-                                          </div>
-                                          <br />
-                                          <div className="row">
-                                                <div className="offset-md-3 col-md-9">
-                                                      <img src="currency_convertor_2.png" alt="" className="img-fluid" data-aos="fade-up" />
-                                                </div>
-                                          </div>
-                                    </div>
-                                    <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
-                                          <br /><br />
-                                          This is very simple currency convertor that converts currency of one nation to the currency of another nation with just one click.This is built using free currency api.<br /><br />
-                                          This app converts currency with latest currency rate and it is frequently updates the every currency according to the change.
-                                          <br /><br />
-                                          <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/Currency--Convertor/' style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>Open Site  </a>
-                                                <a href="https://github.com/UdayVara/Currency--Convertor"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>View Source Code</a>
-                                          </div>
-                                          {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
-                                    </div>
-                              </div>
-                              <div className="row mt-5">
-                                    <div className="col-md-5">
-                                          <div className="row mb-4">
                                                 <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Cv maker</h2>
                                           </div>
                                           <div className="row">
@@ -295,28 +294,28 @@ export default function Porfolio() {
                               <div className="row mt-5">
                                     <div className="col-md-5">
                                           <div className="row mb-4">
-                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Calculator</h2>
+                                                <h2 className='text-center mt-4 pb-2' style={{ color: "#26B69F", borderBottom: "3px solid #26B69F" }}>Currency Convertor</h2>
                                           </div>
                                           <div className="row">
                                                 <div className="col-md-9">
-                                                      <img src="calc.png" alt="" className="img-fluid" data-aos="fade-down" />
+                                                      <img src="currency_convertor_1.png" alt="" className="img-fluid" data-aos="fade-down" />
                                                 </div>
                                           </div>
                                           <br />
                                           <div className="row">
                                                 <div className="offset-md-3 col-md-9">
-                                                      <img src="calc1.png" alt="" className="img-fluid" data-aos="fade-up" />
+                                                      <img src="currency_convertor_2.png" alt="" className="img-fluid" data-aos="fade-up" />
                                                 </div>
                                           </div>
                                     </div>
                                     <div className="offset-md-1 col-md-6 mt-md-5 mt-1" style={{ fontSize: "1.5rem", color: "#26B69F" }} data-aos="fade-down">
                                           <br /><br />
-                                          It is simple calculator which is made from pure javascript and it it used to perform the calculation like arithmetic operations like addition , subtraction and multiplication.
+                                          This is very simple currency convertor that converts currency of one nation to the currency of another nation with just one click.This is built using free currency api.<br /><br />
+                                          This app converts currency with latest currency rate and it is frequently updates the every currency according to the change.
                                           <br /><br />
-                                          It can work on any devices ranging from smartphones to tablets to pc.It is made without any backend support and it uses eval function available in javascript.
                                           <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/calculator/' style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>Open Site  </a>
-                                                <a href="https://github.com/UdayVara/calculator"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>View Source Code</a>
+                                                <a className=' mx-2 btn  rounded ' target="_blank" href='https://udayvara.github.io/Currency--Convertor/' style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>Open Site  </a>
+                                                <a href="https://github.com/UdayVara/Currency--Convertor"  className='btn  rounded mx-2 ' target="_blank" style={{fontSize:'1.1rem',backgroundColor:'#26B69F'}}>View Source Code</a>
                                           </div>
                                           {/* Check out : <a href="https://udayvara.github.io/Currency--Convertor/" target="_blank">View site</a> */}
                                     </div>
