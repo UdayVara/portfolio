@@ -33,7 +33,7 @@ export default function Porfolio() {
                                           <br /><br />
                                           This site is built with Next JS and backend is on NODE + Express JS, for state management I have used Redux Toolkit. This site also has payment intgration using Razorpay.
                                           <div className="mt-5 w-100 d-flex flex-row justify-content-center ">
-                                                <a href="https://github.com/UdayVara/Newsapp" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
+                                                <a href="https://github.com/UdayVara/signaturestiches" className='btn  rounded mx-2 ' target="_blank" style={{ fontSize: '1.1rem', backgroundColor: '#26B69F' }}>View Source Code</a>
                                           </div>
                                     </div>
                               </div>
